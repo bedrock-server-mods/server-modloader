@@ -1,3 +1,4 @@
 [submodule "dep/funchook"]
 	path = dep/funchook
-	url = ../funchook.git
+	url = git@github.com:kubo/funchook.git
+	branch = master
